@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: language tracking mobile app in React Native.
+- 🌱 I’m currently learning: Salesforce development.
+- ⚡ Fun fact: I am not a robot.
+
 <!--
 **terrence-gonsalves/terrence-gonsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
