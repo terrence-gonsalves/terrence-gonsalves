@@ -33,5 +33,7 @@
 ![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=terrence-gonsalves&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br />
 ![](https://github-readme-stats.vercel.app/api?username=terrence-gonsalves&theme=transparent&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=terrence-gonsalves&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=terrence-gonsalves&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
