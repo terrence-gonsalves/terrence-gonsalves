@@ -21,6 +21,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -31,22 +32,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### Salesforce Technologies
-
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png" alt="Apex" width="40" />
-* Apex *
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Integrations" width="40" />
-* Integrations *
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png" alt="LWC" width="40" />
-* LWC *
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png" alt="SFDX" width="40" />
-* SFDX *
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/soql-for-admins/04607670444dbbe5aac7e77bc03c4fd1_badge.png" alt="SOQL" width="40" />
-* SOQL *
-<img src="https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_performance-troubleshooting-in-lwc.png" alt="Testing" width="40" />
-* Testing *
-
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=terrence-gonsalves&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=terrence-gonsalves&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=terrence-gonsalves&theme=transparent&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=terrence-gonsalves&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=terrence-gonsalves&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
