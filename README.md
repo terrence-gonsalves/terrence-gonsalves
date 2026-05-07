@@ -1,10 +1,11 @@
-## Hi there 👋, I'm Terrence Gonsalves
-### Just another human being from Earth
+# Hi there 👋, I'm Terrence Gonsalves
+### Senior web developer & indie maker from Earth
 
-- 🔭 I’m currently working on **LinguaLoop - a language tracking mobile app in React Native**
-- 🌱 I’m currently learning **Salesforce development**
-- 📫 How to reach me: **terrence@bloopa.co**
-- ⚡ Fun fact: **I am not a robot, yet!**
+- 🔭 I'm currently building [Pacewell](https://pacewell-web.vercel.app/) - an AI-powered recovery tracking app for active adults 40+, built with React Native & Expo
+- 🚀 I also just shipped [ReportBrief](https://reportbrief.vercel.app/) - an AI micro-SaaS that turns Salesforce reports into executive-ready summaries
+- 🌱 I'm currently levelling up in React Native and full-stack SaaS development
+- 📫 How to reach me: [terrence@bloopa.co](mailto:terrence@bloopa.co)
+- ⚡ Fun fact: I am not a robot, yet!
 
 ### Connect with me:
 
